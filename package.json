@@ -97,7 +97,7 @@
     "shelljs": "^0.8.3",
     "tiny-glob": "^0.2.9",
     "ts-node": "^10.0.0",
-    "tsc-watch": "^4.0.0",
+    "tsc-watch": "^6.0.0",
     "typeconv": "^1.7.0",
     "typedoc": "^0.21.6",
     "typedoc-plugin-pages": "^1.0.1",
